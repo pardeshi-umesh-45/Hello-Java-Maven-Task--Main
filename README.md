@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CI/CD with Jenkins + Maven — quick start
 
 This README shows how to use Jenkins to build a simple Java Maven project (your first step into CI/CD).
@@ -102,3 +103,6 @@ If you see `BUILD SUCCESS`, Jenkins successfully ran `mvn clean package` and pro
 
 ---
 
+=======
+# hello-java-maven-task-8-main
+>>>>>>> e216ce36011c77e717547c269397f70daf0beb53
